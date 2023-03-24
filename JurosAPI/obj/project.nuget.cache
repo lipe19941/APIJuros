@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "z+aXUMHSRekRcDP9aZggHn2hSydoT+oozyKWzFoywlarH+TbgAmiv4GMVB9xC4GLmhvRasJKFXy7D4VZcygIPw==",
+  "dgSpecHash": "d1c25jCP+7FbTDSAfu4965Bm+a3v+ikfBZVDzkQWcQ6ygUARVBeMEPT/aHJ92loFHz6snEk0gyTj787r2Lu2/w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\luis_\\Downloads\\dotnet-api-Aula-6\\APIJuros\\JurosAPI\\JurosAPI.csproj",
+  "projectFilePath": "C:\\Users\\luis_\\Source\\Repos\\lipe19941\\APIJuros1.0\\JurosAPI\\JurosAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\luis_\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\luis_\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
