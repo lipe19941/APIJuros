@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>FilmesApi</name>
+    </assembly>
+    <members>
+        <member name="M:FilmesApi.Controllers.CalculaJurosController.calculajuros(System.Int32,System.Int32)">
+            <summary>
+            Calcula a taxa de Juros com 1%
+            </summary>
+            <returns>IActionResult</returns>
+        </member>
+    </members>
+</doc>
